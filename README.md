@@ -3,4 +3,5 @@ Starting a mini tailwind project to give me a fundamental understandabililty of 
 
 The Url is -> https://6780c9efa3564507c5357e3c--razorpayclonewebsite1.netlify.app/
 
-you can clone the repo using -> git clone 
+you can clone the repo using -> git clone https://github.com/ankushnaudiyal09/RazorPay_Clone.git
+
